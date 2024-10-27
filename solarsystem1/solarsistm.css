@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  background: url("imagenes/415840.jpg");
+  background-repeat: no-repeat;
+  background-size: expand;
+}
+
+.circle {
+  height: 140px;
+  width: 140px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+.circle2 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+.circle3 {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+.circle4 {
+  height: 390px;
+  width: 390px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+.circle5 {
+  height: 510px;
+  width: 510px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+.circle6 {
+  height: 605px;
+  width: 605px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+.circle7 {
+  height: 710px;
+  width: 710px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+.circle8 {
+  height: 790px;
+  width: 790px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+
+.circle-saturn {
+  height: 90px;
+  width: 10px;
+  border-radius: 50%;
+  border: 2px solid rgb(119, 94, 56);
+  position:absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
+
+.circle-uranus {
+  height: 60px;
+  width: 10px;
+  border-radius: 50%;
+  border: 2px solid rgb(56, 145, 172);
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+}
